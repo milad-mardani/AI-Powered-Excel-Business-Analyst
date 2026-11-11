@@ -1,0 +1,11 @@
+OrderID,OrderDate,Region,Product,Quantity,UnitPrice,Status
+1001,2026-01-05,North,Laptop,2,800,Completed
+1002,2026-01-06,South,Mouse,10,20,Completed
+1003,2026-01-08,North,Keyboard,5,50,Pending
+1004,2026-01-10,West,Laptop,1,800,Completed
+1005,2026-01-12,East,Mouse,8,20,Cancelled
+1006,2026-01-15,South,Monitor,3,200,Completed
+1007,2026-01-18,North,Monitor,,200,Completed
+1008,2026-01-20,West,Keyboard,4,50,Pending
+1009,2026-01-22,East,Laptop,2,800,Completed
+1009,2026-01-22,East,Laptop,2,800,Completed
